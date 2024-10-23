@@ -1,2 +1,1 @@
-# dsa
-this is for practice 
+das and algo
